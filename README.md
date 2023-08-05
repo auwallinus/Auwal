@@ -22,6 +22,12 @@ My name is Auwal Maxwell Linus, I have worked as a Data Analyst at MISTLAINN Com
 [![CSS3](https://img.shields.io/badge/≡-CSS3-1572B6?logo=css3&style=flat-square&logoColor=1572B6&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
-## Blog:pencil:
 
-
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- bg_color=1d1f21 -->
